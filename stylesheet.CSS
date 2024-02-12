@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #b8e994;
+    
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 14%; 
+}
+#loginButton{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #18dcff;
+    color: white;
+    border-radius: 5px;
+
+}
